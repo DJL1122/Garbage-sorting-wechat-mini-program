@@ -1,0 +1,23 @@
+.banner{
+  height:366px;
+  width:100%;
+}
+.top-view{
+text-align: center;
+margin-top: 28rpx;
+}
+
+.bg-darkGray {
+	background-color:  #f6f6f6;
+	color:#ffffff;
+}
+.cu-bar .search-form {
+  background-color:  #ffffff;
+}
+.cu-bar{
+  margin-top: 20rpx;
+}
+.slide-image {
+  width:100%;
+  height:100%;
+}
